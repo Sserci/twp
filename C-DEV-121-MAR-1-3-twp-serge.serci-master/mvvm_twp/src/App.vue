@@ -3,7 +3,7 @@
     <div class="flex mb-10 gap-32">
       <h1><img src="../src/assets/logo_1.png" class="h-20"></h1>
         <div class="mt-auto text-3xl text-gray-900">
-    <h1 class="">Trello, mais en plus beau</h1>
+    <h1 class="">Trello, mais en plus cool</h1>
   </div>
       <div class="bg-heropattern"></div>
 
